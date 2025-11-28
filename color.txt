@@ -1,0 +1,8 @@
+Okay we'll see about that. Show me blue, then red, then cyan, then green, then lilac, and then lavender
+Of course! Here are the colors you requested:
+Red: 0, Green: 0, Blue: 255
+Red: 255, Green: 0, Blue: 0
+Red: 0, Green: 255, Blue: 255
+Red: 0, Green: 255, Blue: 0
+Red: 200, Green: 162, Blue: 200
+Red: 230, Green: 230, Blue: 250

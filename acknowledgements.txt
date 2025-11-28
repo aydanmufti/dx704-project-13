@@ -1,0 +1,13 @@
+Discussed assignment with: No one
+
+Libraries used:
+- matplotlib.pyplot: For visualizing colors in the color agent
+- hashlib: For generating unique deck IDs for Anki decks
+- genanki: For creating Anki flashcard decks and notes
+- google.genai: For using the Gemini API to create language model agents
+- google.genai.types: For configuring tools and content generation
+
+Additional resources:
+I used the lecture materials provided in the course. 
+I referenced the Gemini API documentation at https://ai.google.dev/gemini-api/docs/tools and https://ai.google.dev/gemini-api/docs/function-calling for understanding how to implement tool calling with the Gemini API. 
+I also used the genanki documentation for creating Anki flashcard decks.

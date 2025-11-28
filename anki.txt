@@ -1,0 +1,12 @@
+create 10 flashcards about regression models and save them to a deck called "regression_model_basics"
+Created note in Anki deck 'regression_model_basics'
+Created note in Anki deck 'regression_model_basics'
+Created note in Anki deck 'regression_model_basics'
+Created note in Anki deck 'regression_model_basics'
+Created note in Anki deck 'regression_model_basics'
+Created note in Anki deck 'regression_model_basics'
+Created note in Anki deck 'regression_model_basics'
+Created note in Anki deck 'regression_model_basics'
+Created note in Anki deck 'regression_model_basics'
+Created note in Anki deck 'regression_model_basics'
+Saved Anki deck 'regression_model_basics' to file.
